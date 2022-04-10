@@ -4,3 +4,5 @@ dist
 venv
 .idea
 deploy.sh
+deploy_ended.py
+deploy.log
