@@ -9,7 +9,7 @@ It also creates Foreign objects and M2M objects!
 Quick Start
 ============
 
-1. Add "create-fake-model-object" to your INSTALLED_APPS setting like this::
+1. Add "create_fake_model_object" to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
         ...,
