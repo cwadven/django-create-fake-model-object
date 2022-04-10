@@ -24,3 +24,8 @@ Quick Start
     # Example
     python manage.py createrandom book Book -n 7
 
+
+
+Extra
+========
+ManyToManyField: If you want to create a new model objects with M2M Field! M2M Field Must be `blank=True`
